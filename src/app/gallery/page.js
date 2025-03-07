@@ -1,8 +1,10 @@
 const { default: Image } = require("next/image")
+import Navbar from "@/components/sharedComponent/Navbar";
 import nextJS from "../../assets/Next.jpg"
 const GalleryPage = ()=>{
   return (
     <div>
+        <Navbar/>
           <h1 className="text-center mb-2">Regular Image Tag</h1>
     <img
       src = "https://i.pinimg.com/736x/e9/20/81/e92081263f620e23a2a243e031324301.jpg"
