@@ -1,75 +1,84 @@
 {
-    "products":[
-        {
-          "id": 1,
-          "name": "Wireless Mouse",
-          "category": "Electronics",
-          "price": 1200,
-          "stock": 10
-        },
-        {
-          "id": 2,
-          "name": "Mechanical Keyboard",
-          "category": "Electronics",
-          "price": 3500,
-          "stock": 5
-        },
-        {
-          "id": 3,
-          "name": "Gaming Headset",
-          "category": "Electronics",
-          "price": 2500,
-          "stock": 8
-        },
-        {
-          "id": 4,
-          "name": "Smartphone",
-          "category": "Mobile",
-          "price": 25000,
-          "stock": 3
-        },
-        {
-          "id": 5,
-          "name": "Laptop",
-          "category": "Computers",
-          "price": 65000,
-          "stock": 2
-        },
-        {
-          "id": 6,
-          "name": "USB Flash Drive",
-          "category": "Accessories",
-          "price": 700,
-          "stock": 20
-        },
-        {
-          "id": 7,
-          "name": "Power Bank",
-          "category": "Accessories",
-          "price": 1500,
-          "stock": 7
-        },
-        {
-          "id": 8,
-          "name": "Smartwatch",
-          "category": "Wearable",
-          "price": 5000,
-          "stock": 4
-        },
-        {
-          "id": 9,
-          "name": "Bluetooth Speaker",
-          "category": "Audio",
-          "price": 2200,
-          "stock": 6
-        },
-        {
-          "id": 10,
-          "name": "LED Monitor",
-          "category": "Computers",
-          "price": 12000,
-          "stock": 3
-        }
-      ]
-      
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Mouse",
+      "category": "Electronics",
+      "price": 1600,
+      "stock": 10,
+      "image": "https://i.pinimg.com/736x/d8/d1/f2/d8d1f2a803afa4ed945199bdee399222.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Mechanical Keyboard",
+      "category": "Electronics",
+      "price": 3500,
+      "stock": 5,
+      "image": "https://i.pinimg.com/736x/f8/d2/f2/f8d2f2a04b9d567a67bd17e0fe59664b.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Gaming Headset",
+      "category": "Electronics",
+      "price": 2500,
+      "stock": 8,
+      "image": "https://i.pinimg.com/736x/8a/6d/b5/8a6db5a792e91424bc1a550338968253.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Smartphone",
+      "category": "Mobile",
+      "price": 25000,
+      "stock": 3,
+      "image": "https://i.pinimg.com/736x/d5/1b/0d/d51b0d8826063f245dc38e9ff6c5c263.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Laptop",
+      "category": "Computers",
+      "price": 65000,
+      "stock": 2,
+      "image": "https://i.pinimg.com/736x/0f/04/f3/0f04f3891a8b427f05000b33a14c6e31.jpg"
+    },
+    {
+      "id": 6,
+      "name": "USB Flash Drive",
+      "category": "Accessories",
+      "price": 700,
+      "stock": 20,
+      "image": "https://i.pinimg.com/736x/29/f3/99/29f399aec2699d49113314f1e96d5063.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Power Bank",
+      "category": "Accessories",
+      "price": 1500,
+      "stock": 7,
+      "image": "https://i.pinimg.com/736x/7b/cc/bd/7bccbdb34cc49ed6da25efc141977ca4.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Smartwatch",
+      "category": "Wearable",
+      "price": 5000,
+      "stock": 4,
+      "image": "https://i.pinimg.com/736x/1b/a5/07/1ba50735d586cfb91d93aa58db2f974a.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Bluetooth Speaker",
+      "category": "Audio",
+      "price": 2200,
+      "stock": 6,
+      "image": "https://i.pinimg.com/736x/b8/b9/c8/b8b9c8d058f3bbd0fa49ffdb420f8eb2.jpg"
+    },
+    {
+      "id": 10,
+      "name": "LED Monitor",
+      "category": "Computers",
+      "price": 19000,
+      "stock": 3,
+      "image": "https://i.pinimg.com/736x/8a/6d/b5/8a6db5a792e91424bc1a550338968253.jpg"
+    }
+  ]
 }
